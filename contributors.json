@@ -28,10 +28,17 @@
     "description": "Beginner Backend Developer, AI enthusiast"
   },
   {
+    "name": "Blesson Karikulammalayil Tomy",
+    "department": "Computer Science and Engineering",
+    "github": "https://github.com/Blesson-Tomy",
+    "linkedin": "https://in.linkedin.com/in/Blesson-Tomy",
+    "description": "Frontend Developer, Quality Analyst, Content Writer, Software Developer"
+  },
+  {
     "name": "Joe George",
     "department": "Computer Science and Engineering",
     "github": "https://github.com/joegeorge022",
     "linkedin": "https://www.linkedin.com/in/joegeorge022/",
     "description": "1st Year CSE student"
-  },
+  }
 ]
