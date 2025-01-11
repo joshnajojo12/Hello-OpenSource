@@ -25,49 +25,49 @@ tailwind.config = {
 
 function createContributorCard(contributor) {
   return `
-                <div class="bg-surface rounded-3xl overflow-hidden hover:-translate-y-1 transition-all duration-300">
-                    <div class="relative aspect-square overflow-hidden">
-                        <img src="${
-                          contributor.image ||
-                          "../images/johndoe.png"
-                        }"
-                             alt="${contributor.name}'s profile picture"
-                             class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
-                        <div class="absolute inset-0 bg-gradient-to-t from-surface via-surface/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    </div>
-                    
-                    <div class="p-6">
-                        <h2 class="font-unbounded text-lg font-light text-highlight mb-2">
-                            ${contributor.name}
-                        </h2>
-                        
-                        <p class="font-instrument text text-primary mb-1">${
-                          contributor.department || ""
-                        }</p>
-                        <p class="font-general text text-muted mb-3">${
-                          contributor.college || ""
-                        }</p>
-                        
-                        <p class="font-instrument text text-secondary/90 mb-4 line-clamp-2">
-                            ${contributor.description || ""}
-                        </p>
-                        
-                        <div class="flex justify-between text-sm pt-3 border-t border-white/5">
-                            <a href="${contributor.github}" 
-                               target="_blank" 
-                               rel="noopener noreferrer"
-                               class="font-general text-muted hover:text-tertiary transition-colors duration-300">
-                                <i class="fab fa-github"></i> GitHub
-                            </a>
-                            <a href="${contributor.linkedin}" 
-                               target="_blank" 
-                               rel="noopener noreferrer"
-                               class="font-general text-muted hover:text-accent transition-colors duration-300">
-                                <i class="fab fa-linkedin"></i> LinkedIn
-                            </a>
-                        </div>
-                    </div>
-                </div>
+    <div class="bg-surface rounded-3xl overflow-hidden hover:-translate-y-1 transition-all duration-300">
+    <div class="relative aspect-square overflow-hidden">
+        <img src="${contributor.image || "../images/johndoe.png"}"
+            alt="${contributor.name}'s profile picture"
+            class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+        <div class="absolute inset-0 bg-gradient-to-t from-surface via-surface/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+    </div>
+    
+    <div class="p-6">
+        <h2 class="font-unbounded text-lg font-light text-highlight mb-2">
+            ${contributor.name}
+        </h2>
+        
+        <p class="font-instrument text text-primary mb-1">${
+          contributor.current_position || ""
+        }</p>
+        <p class="font-general text text-muted mb-1">${
+          contributor.college || ""
+        }</p>
+        <p class="font-general text text-muted mb-3">${
+          contributor.district || ""
+        }</p>
+        
+        <p class="font-instrument text text-secondary/90 mb-4 line-clamp-2">
+            ${contributor.description || ""}
+        </p>
+        
+        <div class="flex justify-between text-sm pt-3 border-t border-white/5">
+            <a href="${contributor.github}"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="font-general text-muted hover:text-tertiary transition-colors duration-300">
+                <i class="fab fa-github"></i> GitHub
+            </a>
+            <a href="${contributor.linkedin}"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="font-general text-muted hover:text-accent transition-colors duration-300">
+                <i class="fab fa-linkedin"></i> LinkedIn
+            </a>
+        </div>
+    </div>
+</div>
             `;
 }
 

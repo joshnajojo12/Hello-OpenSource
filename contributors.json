@@ -1,16 +1,17 @@
 [
   {
     "name": "Alvin Dennis",
-    "department": "Electrical and Electronics",
+    "current_position": "B.Tech in Electrical and Electronics",
     "github": "https://github.com/alvin-dennis",
     "linkedin": "https://in.linkedin.com/in/alvin-dennis-0a70ba163",
     "image": "./images/alvin.webp",
-    "description": "Frontend Web Developer, Bot Developer, UI/UX Designer, Tester",
+    "description": "Frontend Web Developer, Bot Developer, UI/UX Designer, Tester, Open Source Enthusiast",
+    "district": "Kottayam",
     "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
   {
     "name": "Milan Suman",
-    "department": "Cyber Security",
+    "current_position": "B.Tech in Cyber Security",
     "github": "https://github.com/MilanSuman",
     "linkedin": "https://www.linkedin.com/in/milan-suman-66234b25b/",
     "description": "Fullstack web developer, open source enthusiast",
@@ -18,7 +19,7 @@
   },
   {
     "name": "Aravind Manoj",
-    "department": "Cyber Security",
+    "current_position": "B.Tech in Cyber Security",
     "github": "https://github.com/aravind-manoj",
     "linkedin": "https://in.linkedin.com/in/aravindmanoj",
     "description": "Tester",
@@ -26,7 +27,7 @@
   },
   {
     "name": "C S Vaishakh",
-    "department": "Aritificial Intelligence and Data Science",
+    "current_position": "B.Tech in Aritificial Intelligence and Data Science",
     "github": "https://github.com/CSVaishakh",
     "linkedin": "https://www.linkedin.com/in/CSVaishakh/",
     "description": "Beginner Backend Developer, AI enthusiast",
@@ -34,7 +35,7 @@
   },
   {
     "name": "Blesson Karikulammalayil Tomy",
-    "department": "Computer Science and Engineering",
+    "current_position": "B.Tech in Computer Science and Engineering",
     "github": "https://github.com/Blesson-Tomy",
     "linkedin": "https://in.linkedin.com/in/Blesson-Tomy",
     "description": "Frontend Developer, Quality Analyst, Content Writer, Software Developer",
@@ -42,7 +43,7 @@
   },
   {
     "name": "Joe George",
-    "department": "Computer Science and Engineering",
+    "current_position": "B.Tech in Computer Science and Engineering",
     "github": "https://github.com/joegeorge022",
     "linkedin": "https://www.linkedin.com/in/joegeorge022/",
     "description": "1st Year CSE student",
@@ -50,7 +51,7 @@
   },
   {
     "name": "Joseph Babu Aricatt",
-    "department": "Computer Science and Engineering",
+    "current_position": "B.Tech in Computer Science and Engineering",
     "github": "https://github.com/josehp304",
     "linkedin": "https://www.linkedin.com/in/joseph304/",
     "description": "CSE Student intrested in web dev :) ",
@@ -58,7 +59,7 @@
   },
    {
     "name": "Ajay Varma",
-    "department": "Cyber Security",
+    "current_position": "B.Tech in Cyber Security",
     "github": "https://github.com/ajayvarma007789",
     "linkedin": "https://www.linkedin.com/in/ajay-varma-433836345/",
     "description": "3rd Year CY student, frontend web developer and designer, cyber security enthusiast",
@@ -66,7 +67,7 @@
   },
   {
     "name": "Tims Tittus",
-    "department": "Cyber Security",
+    "current_position": "B.Tech in Cyber Security",
     "github": "https://github.com/TimsTittus",
     "linkedin": "https://in.linkedin.com/in/tims-tittus",
     "description": "2nd Year CY student",
@@ -74,7 +75,7 @@
   },
   {
     "name": "Siva Gireesh",
-    "department": "Cyber Security",
+    "current_position": "B.Tech in Cyber Security",
     "github": "https://github.com/Siva2077",
     "linkedin": "https://in.linkedin.com/in/Siva-Gireesh",
     "description": "2nd Year CY student,IOT Enthusiast, Designer",
@@ -82,7 +83,7 @@
   },
   {
     "name": "Vinayapriya C C",
-    "department": "Computer Science and Engineering",
+    "current_position": "B.Tech in Computer Science and Engineering",
     "github": "https://github.com/Vinayapriya",
     "linkedin": "https://www.linkedin.com/in/vinayapriya-c-c-136126291/",
     "description": "2nd Year CSE Student, Interested in web development",
@@ -90,7 +91,7 @@
   },
   {
     "name": "Abin Thomas",
-    "department": "Cyber Security",
+    "current_position": "B.Tech in Cyber Security",
     "github": "https://github.com/abin-karukappallil",
     "linkedin": "http://linkedin.com/in/abin-thomas-karukappallil-",
     "description": "2nd Year CY Student",
