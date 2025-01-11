@@ -33,16 +33,16 @@ Now clone the forked repository to your machine:
 - Using HTTPS
 
 ```sh
-git clone "https://GitHub.com/<your-username>/Hello-OpenSource.git"
+git clone "https://github.com/<your-username>/Hello-OpenSource.git"
 ```
 
 - Using SSH
 
 ```sh
-git clone "git@GitHub.com:<your-username>/Hello-OpenSource.git"
+git clone "git@github.com:<your-username>/Hello-OpenSource.git"
 ```
 
-**Note**: Replace <yout-username> with your GitHub username.
+**Note**: Replace <your-username> with your GitHub username.
 
 ## Step 3 - Create a branch
 
@@ -64,9 +64,10 @@ For example:
 ```sh
 git switch -c add-alvin-dennis
 ```
+
 ## Step 4 - Make changes and commit
 
-- Edit the `contributors.json` file in the project directory to include your information.
+- Edit the `contributors.json` file in the directory to include your information.
 
 ```sh
 [
@@ -79,13 +80,20 @@ git switch -c add-alvin-dennis
       "department": "Electrical and Electronics",
       "github": "https://github.com/alvin-dennis",
       "linkedin": "https://in.linkedin.com/in/alvin-dennis-0a70ba163",
-      "description": "Frontend Web Developer, Bot Developer, UI/UX Designer, Tester"
+      "image": "./images/alvin.webp",
+      "description": "Frontend Web Developer, Bot Developer, UI/UX Designer, Tester",
+      "college": "St. Joseph's College of Engineering and Technology, Palai"
 }
 
 ]
 ```
 **NOTE:** 
 > make sure to add your info at the end of the file, after the last user's data. Not in the middle or the top of the file.
+> **Otherwise the PR will be closed!**
+
+- Add a portrait image of you with your name and add it to the `images/` directory. If you don't want to add an image, leave it blank in the json file
+- Image size should not be greater than **200KB**
+- For the best result use a image with **1:1 ratio**
 
 Now if you go to the project directory and enter the command `git status`, you can see the changes.
 
@@ -128,3 +136,7 @@ git push -u origin add-alvin-dennis
 If you go to your repository page on GitHub you will see a `compare & pull request` button. Click that button.
 And submit the pull request.
 Soon the reviewer will merge the branch into `main`.
+
+## Step 7 - View your Details
+
+Once the PR is merged you can view your details [here](https://hello-opensource.vercel.app/).

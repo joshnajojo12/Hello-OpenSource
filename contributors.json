@@ -4,85 +4,97 @@
     "department": "Electrical and Electronics",
     "github": "https://github.com/alvin-dennis",
     "linkedin": "https://in.linkedin.com/in/alvin-dennis-0a70ba163",
-    "description": "Frontend Web Developer, Bot Developer, UI/UX Designer, Tester"
+    "image": "./images/alvin.webp",
+    "description": "Frontend Web Developer, Bot Developer, UI/UX Designer, Tester",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
   {
     "name": "Milan Suman",
     "department": "Cyber Security",
     "github": "https://github.com/MilanSuman",
     "linkedin": "https://www.linkedin.com/in/milan-suman-66234b25b/",
-    "description": "Fullstack web developer, open source enthusiast"
+    "description": "Fullstack web developer, open source enthusiast",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
   {
     "name": "Aravind Manoj",
     "department": "Cyber Security",
     "github": "https://github.com/aravind-manoj",
     "linkedin": "https://in.linkedin.com/in/aravindmanoj",
-    "description": "Tester"
+    "description": "Tester",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
   {
     "name": "C S Vaishakh",
     "department": "Aritificial Intelligence and Data Science",
     "github": "https://github.com/CSVaishakh",
     "linkedin": "https://www.linkedin.com/in/CSVaishakh/",
-    "description": "Beginner Backend Developer, AI enthusiast"
+    "description": "Beginner Backend Developer, AI enthusiast",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
   {
     "name": "Blesson Karikulammalayil Tomy",
     "department": "Computer Science and Engineering",
     "github": "https://github.com/Blesson-Tomy",
     "linkedin": "https://in.linkedin.com/in/Blesson-Tomy",
-    "description": "Frontend Developer, Quality Analyst, Content Writer, Software Developer"
+    "description": "Frontend Developer, Quality Analyst, Content Writer, Software Developer",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
   {
     "name": "Joe George",
     "department": "Computer Science and Engineering",
     "github": "https://github.com/joegeorge022",
     "linkedin": "https://www.linkedin.com/in/joegeorge022/",
-    "description": "1st Year CSE student"
+    "description": "1st Year CSE student",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
   {
-    "name": "joseph babu aricatt",
-    "department": "computer science & engineering",
+    "name": "Joseph Babu Aricatt",
+    "department": "Computer Science and Engineering",
     "github": "https://github.com/josehp304",
     "linkedin": "https://www.linkedin.com/in/joseph304/",
-    "description": "CSE Student intrested in web dev :) "
+    "description": "CSE Student intrested in web dev :) ",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
    {
     "name": "Ajay Varma",
     "department": "Cyber Security",
     "github": "https://github.com/ajayvarma007789",
     "linkedin": "https://www.linkedin.com/in/ajay-varma-433836345/",
-    "description": "3rd Year CY student, frontend web developer and designer, cyber security enthusiast"
+    "description": "3rd Year CY student, frontend web developer and designer, cyber security enthusiast",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
   {
     "name": "Tims Tittus",
     "department": "Cyber Security",
     "github": "https://github.com/TimsTittus",
     "linkedin": "https://in.linkedin.com/in/tims-tittus",
-    "description": "2nd Year CY student"
+    "description": "2nd Year CY student",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
   {
     "name": "Siva Gireesh",
     "department": "Cyber Security",
     "github": "https://github.com/Siva2077",
     "linkedin": "https://in.linkedin.com/in/Siva-Gireesh",
-    "description": "2nd Year CY student,IOT Enthusiast, Designer"
+    "description": "2nd Year CY student,IOT Enthusiast, Designer",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
   {
     "name": "Vinayapriya C C",
     "department": "Computer Science and Engineering",
     "github": "https://github.com/Vinayapriya",
     "linkedin": "https://www.linkedin.com/in/vinayapriya-c-c-136126291/",
-    "description": "2nd Year CSE Student, Interested in web development"
+    "description": "2nd Year CSE Student, Interested in web development",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
   {
     "name": "Abin Thomas",
     "department": "Cyber Security",
     "github": "https://github.com/abin-karukappallil",
     "linkedin": "http://linkedin.com/in/abin-thomas-karukappallil-",
-    "description": "2nd Year CY Student"
-  },
-
+    "description": "2nd Year CY Student",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
+  }
 ]
 
