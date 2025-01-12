@@ -96,6 +96,15 @@
     "linkedin": "http://linkedin.com/in/abin-thomas-karukappallil-",
     "description": "2nd Year CY Student",
     "college": "St. Joseph's College of Engineering and Technology, Palai"
+  },
+  {
+      "name": "Basil Vazhathottathil",
+      "current_position": "B.Tech in Computer Science and Engineering",
+      "github": "https://github.com/basil-vazhathottathil",
+      "linkedin": "https://www.linkedin.com/in/basil-vazhathottathil-a540a821b/",
+      "image": "./images/basil-vazhathottathil.jpg",
+      "description": "Wannabe Cybersecurity Enthusiast,Basic Web developer",
+      "college": "St. Joseph's College of Engineering and Technology, Palai"
   }
 ]
 
