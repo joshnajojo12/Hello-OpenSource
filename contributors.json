@@ -110,8 +110,10 @@
     "name": "Jeswin Thampichan Joseph",
     "current_position": "B.Tech in Computer Science and Engineering",
     "github": "https://github.com/jeswin1811",
-    "linkedin": "https://www.linkedin.com/in/jeswinthampichanjoseph/",
-    "description": "2nd Year CSE Student",
+    "linkedin": "https://in.linkedin.com/in/jeswinthampichanjoseph",
+    "image": "./images/JTJ.JPG",
+    "description": "2nd Year CSE Student, Passionate about DevOps, AI/ML, and problem solving through data structures and algorithms",
+    "district": "Alappuzha",
     "college": "St. Joseph's College of Engineering and Technology, Palai"
   }
 ]
