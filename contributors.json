@@ -105,6 +105,14 @@
       "image": "./images/basil-vazhathottathil.jpg",
       "description": "Wannabe Cybersecurity Enthusiast,Basic Web developer",
       "college": "St. Joseph's College of Engineering and Technology, Palai"
+  },
+  {
+    "name": "Jeswin Thampichan Joseph",
+    "current_position": "B.Tech in Computer Science and Engineering",
+    "github": "https://github.com/jeswin1811",
+    "linkedin": "https://www.linkedin.com/in/jeswinthampichanjoseph/",
+    "description": "2nd Year CSE Student",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   }
 ]
 
