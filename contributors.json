@@ -116,15 +116,17 @@
     "district": "Alappuzha",
     "college": "St. Joseph's College of Engineering and Technology, Palai"
   },
-<<<<<<< HEAD
+
   {
     "name": "Riya Benny",
     "current_position": "B.Tech in Computer Science",
     "github": "https://github.com/Riyabenny05",
-    "linkedin": "https://www.linkedin.com/in/riya-benny-5389b5287/",
-    "image":"IMG_20250107_221644_819.jpg",
+    "linkedin": "https://www.linkedin.com/in/riyabenny05/",
+    "image":"./images/ria.jpg",
     "description": " 2nd year CSE Student,Beginner LeetCoder,Basic Frontend Web Developer,problem solving through DSA",
-=======
+  },
+    
+
    {
     "name": "Shaun MR",
     "current_position": "B.Tech in Computer Science and Engineering",
