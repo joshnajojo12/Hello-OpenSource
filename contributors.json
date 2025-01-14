@@ -133,6 +133,15 @@
     "image": "./images/pr.jpg",
     "description": "2nd Year CSE Student, Interested in Web development , AI and ML",
     "college": "St. Joseph's College of Engineering and Technology, Palai"
+  },
+  {
+    "name": "Akhil Nair",
+    "current_position": "B.Tech in Computer Science and Engineering",
+    "github": "https://github.com/AkhilNair-ktm",
+    "linkedin": "www.linkedin.com/in/akhilnair04",
+    "image": "./images/Akhil.jpg",
+    "description": "2nd Year CSE Student, Interested in Web development , AI and ML",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   }
 ]
 
