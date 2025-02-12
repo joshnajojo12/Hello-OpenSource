@@ -153,6 +153,15 @@
     "image": "./images/Akhil.jpg",
     "description": "2nd Year CSE Student, Interested in Web development , AI and ML",
     "college": "St. Joseph's College of Engineering and Technology, Palai"
+  },
+  {
+    "name": "Tom Sibu",
+    "current_position": "B.Tech in Computer Science and Engineering",
+    "github": "https://github.com/TomSibu",
+    "linkedin": "https://www.linkedin.com/in/tom-sibu-58497627b/",
+    "image": "./images/tom.jpg",
+    "description": "3rd Year CSE student, Software Developer, Frontend Developer and UI Designer, Open-source enthusiast ",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   }
 ]
 
