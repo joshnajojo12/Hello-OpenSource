@@ -162,6 +162,16 @@
     "image": "./images/tom.jpg",
     "description": "3rd Year CSE student, Software Developer, Frontend Developer and UI Designer, Open-source enthusiast ",
     "college": "St. Joseph's College of Engineering and Technology, Palai"
+  },
+  {
+    "name": "Christina George",
+    "current_position": "B.Tech in Computer Science and Engineering",
+    "github": "https://github.com/christinawdc",
+    "linkedin": "https://www.linkedin.com/in/christina-george--/",
+    "description": "CSE student with a passion for tech.",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   }
+
+
 ]
 
